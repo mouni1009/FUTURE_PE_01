@@ -1,0 +1,27 @@
+You are an expert website copywriter specializing in conversion-focused content for local coaching institutes.
+
+Business Details:
+- Business Name: [Raju coaching center] 
+- Location: [visakhapatnam,gajuwaka] 
+- Target Audience: School students (Class 8–12) and parents
+- Services: Board exam preparation, EAMCET coaching 
+- Unique Selling Points: Small batches, experienced faculty, personal attention
+
+Generate the following:
+
+1. Homepage Copy
+- Headline
+- Sub-headline
+- Short intro paragraph
+
+2. Services Page
+- 4–5 services with description and benefit
+
+3. Call-To-Action Sections
+- Contact CTA
+- Enrollment CTA
+- Urgency CTA
+
+Keep language simple, clear, and persuasive.
+Avoid generic phrases.
+Make it feel trustworthy and local.
